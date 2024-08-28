@@ -2,7 +2,7 @@
 
 ## A universal tool to perform CRUD operations via FileManager.
 
-You can read more about in <a href="https://livsycode.com/blog/file-system-crud-operations-manager/">my article</a>.
+You can read more in <a href="https://livsycode.com/blog/file-system-crud-operations-manager/">my article</a>.
 
 ## Installation
 
